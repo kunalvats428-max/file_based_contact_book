@@ -1,0 +1,23 @@
+[
+  {
+    "id": "639adfdd-d7c3-48cc-a035-e7764a94b384",
+    "name": "Mayank",
+    "phone": "89712332312",
+    "email": "mayank@example.com",
+    "notes": "Friend"
+  },
+  {
+    "id": "d141c3ec-788e-41d8-80c5-4fcb829bd28e",
+    "name": "harsh",
+    "phone": "8721863862",
+    "email": "harsh@example.com",
+    "notes": "Friend"
+  },
+  {
+    "id": "94056242-979a-4d68-b473-6a679c48efa7",
+    "name": "Koushal",
+    "phone": "9712639826",
+    "email": "koushal@example.com",
+    "notes": "Friend"
+  }
+]
